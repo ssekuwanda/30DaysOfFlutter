@@ -1,6 +1,4 @@
-# 30 DAYS OF FLUTTER,
-
-## DAY ONE
+# 30 DAYS OF FLUTTER
 
 ## Things to know
 
