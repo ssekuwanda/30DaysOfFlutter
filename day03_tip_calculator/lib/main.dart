@@ -31,7 +31,7 @@ class _MyAppState extends State<MyApp> {
                     style: const TextStyle(fontSize: 30),
                   ),
                 ),
-              const Text('Total Amount'),
+              const Text('Total Amount '),
               SizedBox(
                 width: 70,
                 child: TextField(
